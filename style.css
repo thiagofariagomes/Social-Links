@@ -81,3 +81,13 @@ button:hover{
     color: #000000;
     transition-delay: 0.1s;
 }
+
+@media screen and (max-width: 1096px){
+   div{
+    margin: 10vh 10vw;
+   }
+
+   button{
+    padding: 10px 145px;
+   }
+}
